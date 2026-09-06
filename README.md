@@ -29,3 +29,11 @@ after checking logs for personal paths or other information you do not wish to s
 The updater signature is not a Windows Authenticode publisher certificate. The
 installer may show an unknown-publisher warning. Obtain downloads only from the
 official page or this repository, and compare the published SHA-256 checksum.
+
+## Source code
+
+CEBG's installer and recipe tooling are available in the
+[public source repository](https://github.com/Chrizhermann/chriz-bg-collection),
+under MIT for CEBG-owned material. Third-party dependencies retain their licenses;
+see the source repository's notices and [Windows build guide](https://github.com/Chrizhermann/chriz-bg-collection/blob/main/docs/BUILDING.md).
+This distribution repository remains the home of official downloads and the updater feed.
