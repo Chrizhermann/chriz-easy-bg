@@ -1,6 +1,6 @@
 # Chriz Easy BG (CEBG)
 
-**Early Windows alpha — expect bugs.** A few-click installer for Chriz's curated
+**Early release — expect bugs.** A few-click installer for Chriz's curated
 Baldur's Gate / Enhanced Edition Trilogy setup.
 
 Visit [the collection page](https://bg.chrizfader.org/collection) for the quick
